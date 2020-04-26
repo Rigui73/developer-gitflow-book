@@ -1,17 +1,14 @@
 # Table of contents
 
-* [Introducción](README.md)
-* [LANGS](langs.md)
-* [Introducción](es/README.md)
-  * [Table of contents](es/summary.md)
-  * [instalacion](es/instalacion/README.md)
-    * [Instalación en Linux](es/instalacion/instalacion-en-linux.md)
-    * [Instalación en Mac](es/instalacion/instalacion-en-mac.md)
-    * [Instalación en Windows](es/instalacion/instalacion-en-windows.md)
-  * [primeros-pasos](es/primeros-pasos/README.md)
-    * [Configuración](es/primeros-pasos/configuracion.md)
-* [Introducción](en/README.md)
-  * [Table of contents](en/summary.md)
-* [Introducción](ca/README.md)
-  * [Table of contents](ca/summary.md)
+* [Introducción](./)
+
+## Installation
+
+* [Instalación en Linux](01-installation/instalacion-en-linux.md)
+* [Instalación en Mac](01-installation/instalacion-en-mac.md)
+* [Instalación en Windows](01-installation/instalacion-en-windows.md)
+
+## First Steps
+
+* [Configuración](02-firsts-steps/configuracion.md)
 
