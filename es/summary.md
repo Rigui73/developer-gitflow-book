@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducción](README.md)
+* [Introducción](./)
 
 ## Instalación
 
