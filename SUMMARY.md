@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Introducción](./)
-
 ## Instalación
 
 * [Instalación en Windows](instalacion/instalacion-en-windows.md)
@@ -11,4 +9,3 @@
 ## Primeros Pasos
 
 * [Configuración](primeros-pasos/configuracion.md)
-
