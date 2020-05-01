@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## Instalación
 
 * [Instalación en Windows](instalacion/instalacion-en-windows.md)
@@ -9,3 +11,9 @@
 ## Primeros Pasos
 
 * [Configuración](primeros-pasos/configuracion.md)
+
+## 👍🏼 efectar cambios
+
+* [Untitled](efectar-cambios/untitled.md)
+* [CHANGELOG](changelog.md)
+
