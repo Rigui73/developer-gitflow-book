@@ -14,9 +14,5 @@
 
 ## 👍🏼 efectuar cambios
 
-## 👍🏼 efectar cambios
-
-* [Untitled](efectar-cambios/untitled.md)
-* [Untitled](efectar-cambios/untitled-1.md)
-* [CHANGELOG](changelog.md)
+* [Prueba2](efectuar-cambios/prueba2.md)
 
